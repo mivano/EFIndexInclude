@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFIndexInclude", "EFIndexInclude\EFIndexInclude.csproj", "{6686DA32-BDBC-464A-A6EC-E6E797B4A00B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFIndexInclude", "EFIndexInclude\EFIndexInclude.csproj", "{6686DA32-BDBC-464A-A6EC-E6E797B4A00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B0B09882-B3D2-4172-93C1-96D2AD1A1904}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6686DA32-BDBC-464A-A6EC-E6E797B4A00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6686DA32-BDBC-464A-A6EC-E6E797B4A00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6686DA32-BDBC-464A-A6EC-E6E797B4A00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B09882-B3D2-4172-93C1-96D2AD1A1904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B09882-B3D2-4172-93C1-96D2AD1A1904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B09882-B3D2-4172-93C1-96D2AD1A1904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B09882-B3D2-4172-93C1-96D2AD1A1904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
